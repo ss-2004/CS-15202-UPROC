@@ -1,0 +1,8 @@
+Bubblesort
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjZzvHz5LKCAxUuxjgGHR35AAAQFnoECBAQAQ&url=https%3A%2F%2Fwww.geeksforgeeks.org%2F8085-program-bubble-sort%2F&usg=AOvVaw2Kk_fl5pCX_llkJ67hnGVp&opi=89978449
+
+https://www.zseries.in/embedded%20lab/8085%20programs/arrange%20an%20array%20of%20data%20in%20ascending%20order.php
+
+https://github.com/GNUSim8085/GNUSim8085/blob/master/doc/examples/sorting.asm
+
