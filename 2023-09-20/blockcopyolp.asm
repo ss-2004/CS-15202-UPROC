@@ -1,3 +1,5 @@
+; Copy block of memory with overlap
+
 MVI C, 05
 MOV B, C
 LXI H, 2500
