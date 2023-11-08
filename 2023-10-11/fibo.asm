@@ -1,3 +1,5 @@
+; First n fibonacci number
+
 LDA 2200;       3A 98 08
 MOV H, A;       67
 LDA 2201;       3A 99 08
