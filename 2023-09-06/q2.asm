@@ -1,4 +1,6 @@
-    MVI C,10
+; Addition of 10 numbers stored contiguously in memory
+
+	MVI C,10
 	MVI D,00
 	MVI A,00
 	LXI H,2051
