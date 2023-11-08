@@ -1,3 +1,5 @@
+; Subtract 2 8bit numbers with borrow
+
 MVI C, 00
 MVI A, 083H
 MVI B, 0FFH
