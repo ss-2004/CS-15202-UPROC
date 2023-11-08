@@ -1,3 +1,5 @@
+; Check if number is prime or not
+
 LDA 2200;               3A 98  8
 MOV B, A;               47
 MOV E, A;               5F
