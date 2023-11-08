@@ -1,3 +1,5 @@
+; Binary Search
+
 LDA 3000H;		3A 00 30
 MOV B, A;		47
 MVI A, 0;		3E 00
