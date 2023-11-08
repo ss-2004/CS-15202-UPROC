@@ -1,3 +1,5 @@
+; Addition of even numbers in memory
+
 LDA 2200
 MOV C, A
 MVI B, 00H
