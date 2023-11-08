@@ -1,3 +1,5 @@
+; Factorial
+
 LDA 2050;       3A 02 08
 MOV B, A;       47
 MVI A, 01H;     3E 01
