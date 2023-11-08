@@ -1,3 +1,4 @@
+;Add 2 8bit numbers with carry
 	   MVI C,00
 	   MVI A,FF
 	   MVI B,83
