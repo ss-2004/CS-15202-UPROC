@@ -1,3 +1,5 @@
+; Calculate sum of 10 even and odd numbers separately
+
 LXI H, 2040H
 MVI B, 00
 MVI C, 00
