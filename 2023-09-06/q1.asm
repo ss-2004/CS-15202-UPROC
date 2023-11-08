@@ -1,3 +1,5 @@
+; Addition of 5 numbers entered simultaneously
+
 LDA 0x2050
 MOV B, A
 LDA 0x2051
