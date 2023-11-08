@@ -1,3 +1,5 @@
+; Divide 2 numbers
+
 LDA 2200
 MOV B, A
 LDA 2201
