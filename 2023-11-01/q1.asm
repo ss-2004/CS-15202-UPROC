@@ -1,3 +1,5 @@
+; Linear search
+
 LXI H, 2000H;    21 00 20
 MOV B, M;        46
 INX H;           23
